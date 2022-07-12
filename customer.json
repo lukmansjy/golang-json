@@ -1,0 +1,20 @@
+{
+  "FirstName":"Lukman",
+  "MiddleName":"Sanjaya",
+  "LastName":"Ok",
+  "Age":0,
+  "Married":false,
+  "Hobbies":["Coding","Gaming","Sleeping"],
+  "Addresses":[
+    {
+      "Street":"Jalan Belum Ada",
+      "Country":"Indonesia",
+      "PostalCode":"123"
+    },
+    {
+      "Street":"Jalan Sudah Ada",
+      "Country":"Indonesia",
+      "PostalCode":"456"
+    }
+  ]
+}
